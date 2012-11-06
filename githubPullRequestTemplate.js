@@ -1,3 +1,4 @@
+// javascript:(function(a){var b=a.createElement("script");b.src="https://raw.github.com/adamwdennis/Bookmarklets/master/githubPullRequestTemplate.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);)
 var fieldValueMap = {
   '#pull_request_title' : '#issueId: Brief Description',
   '.js-comment-field.js-size-to-fit': "###### High-level Description - Fix/Feature" +
