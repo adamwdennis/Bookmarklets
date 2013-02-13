@@ -1,6 +1,6 @@
 var fieldValueMap = {
-  'issue_title' : 'CATEGORY - Brief Description',
-  'js-comment-field.js-size-to-fit.input-with-fullscreen-icon': "###### Description" +
+  '#issue_title' : 'CATEGORY - Brief Description',
+  '#issue_body': "###### Description" +
     "\n\n* " +
     "\n\n###### Reproduction Steps" +
     "\n\n* " +
