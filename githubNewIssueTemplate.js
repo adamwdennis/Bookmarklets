@@ -14,6 +14,6 @@ var fieldValueMap = {
 
 
 Object.keys( fieldValueMap ).forEach(function( name ){
-  $(name).attr('value',fieldValueMap[name]);
+  $(name).val(fieldValueMap[name]);
 });
 
